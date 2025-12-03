@@ -1,0 +1,5 @@
+{
+  "name": "VNDB Visual Novel Explorer",
+  "description": "A sexy and web application to search VNDB.",
+  "requestFramePermissions": []
+}
